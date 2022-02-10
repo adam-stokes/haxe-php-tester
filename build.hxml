@@ -1,0 +1,6 @@
+--lib bramus.router
+--class-path src
+--main Main
+--php public
+--dce std
+--debug

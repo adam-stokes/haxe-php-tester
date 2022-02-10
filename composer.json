@@ -1,0 +1,13 @@
+{
+    "name": "adam-stokes/haxe-php-tester",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Adam Stokes",
+            "email": "51892+adam-stokes@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6"
+    }
+}
